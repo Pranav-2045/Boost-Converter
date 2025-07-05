@@ -61,16 +61,3 @@ loop for more precise output regulation."]
 
 ---
 
-## License
-
-This project is licensed under the [Your Chosen License, e.g., MIT License, Apache License 2.0] - see the `LICENSE` file for details.
-
----
-
-## Acknowledgments
-
-* [Mention any resources, tutorials, or communities that helped you, e.g., "Thanks to [Name/Resource] for valuable insights on boost converter design." or "Inspired by [Project Name]."]
-
----
-
-This comprehensive `README.md` will give anyone visiting your GitHub repository a clear understanding of your DC-DC boost converter project! Remember to replace the bracketed placeholders with your actual project details. Good luck!
