@@ -54,10 +54,5 @@ Testing involved:
 * **Efficiency Measurement:** Calculating the conversion efficiency at different load points.
 * **Thermal Performance:** Monitoring component temperatures during operation.
 
-loop for more precise output regulation."]
-* [Idea 2, e.g., "Add communication interface (e.g., I2C, SPI) for remote monitoring and control."]
-* [Idea 3, e.g., "Optimize for higher efficiency at light loads."]
-* [Idea 4, e.g., "Incorporate advanced protection features like thermal shutdown or input undervoltage lockout."]
 
----
 
